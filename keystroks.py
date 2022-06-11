@@ -1,4 +1,3 @@
-from winreg import HKEY_LOCAL_MACHINE
 from pynput.keyboard import Listener
 
 
